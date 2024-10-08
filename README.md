@@ -1,1 +1,1 @@
-# PROJECTS
+The Various Projects Undertaken by me uses various Data science Tools And Techniques like Excel, SQL, Tableau, Python and Machine Learning for VArious Outcomes Like Reports, dashboards, PPT, Machine Learning Models etc
